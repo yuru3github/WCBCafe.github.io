@@ -83,7 +83,7 @@ img {
 }
 
 #home {
-    background-image: url(../images/coffee20160715165504_TP_V4.jpg) ;
+    background-image: url(../coffee20160715165504_TP_V4.jpg) ;
     min-height: 100vh;;
 }
 #home .page-title {
@@ -92,7 +92,7 @@ img {
 
 /* NEWS */
 #news {
-    background-image: url(../images/MAR88_kabintotabel_TP_V4.jpg);
+    background-image: url(../MAR88_kabintotabel_TP_V4.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -292,7 +292,7 @@ aside p {
 
 /* MENU */
 #menu {
-    background-image: url(../images/FCFOU_touhunopancake_TP_V4.jpg) ;
+    background-image: url(../FCFOU_touhunopancake_TP_V4.jpg) ;
     min-height: 100vh;
 }
 .menu-content {
@@ -327,7 +327,7 @@ aside p {
 
 /* CONTACT */
 #contact {
-    background-image: url(../images/IMG_5963.JPG);
+    background-image: url(../IMG_5963.JPG);
     min-height: 100vh;
 }
 
